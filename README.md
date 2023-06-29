@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Matheus Costa</h1>
 <h3 align="center">Apaixonado por como a tecnologia pode transformar negócios</h3>
 
-- 🌱 Estou de análise e visualição de dados: **Python e análise de dados**
+- 🌱 Estou estudando análise e visualição de dados: **Python e análise de dados**
 
 - 📘 I’m looking for help with:  **Python e banco de dados**
 
