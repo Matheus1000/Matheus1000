@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Matheus Costa</h1>
-<h3 align="center">Apaixonado de como a tecnologia pode transformar negócios</h3>
+<h3 align="center">Apaixonado em entender como a tecnologia pode transformar negócios</h3>
 
 - 🌱 Estou estudando análise e visualição de dados: **Python, análise de dados e infraestrutura de dados**
 
