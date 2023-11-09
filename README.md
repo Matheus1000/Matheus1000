@@ -3,7 +3,6 @@
 
 - 🌱 Estou estudando análise e visualição de dados: **Python, análise de dados e infraestrutura de dados**
 
-- 📫 Você me acha através do email: **matheuscavs1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
